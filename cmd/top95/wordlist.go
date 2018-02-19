@@ -50,7 +50,7 @@ func (w wordlist) fetchHTTP() (io.ReadCloser, error) {
 		return nil, err
 	}
 	if resp.StatusCode != http.StatusOK {
-		err = fmt.Errorf("wordlist: fetch status %v", resp.StatusCode)
+		err = fmt.Errorf("top95: fetch status %v", resp.StatusCode)
 	}
 	return resp.Body, err
 }
