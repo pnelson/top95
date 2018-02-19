@@ -32,4 +32,4 @@ described in [LICENSE](https://github.com/pnelson/top95/blob/master/LICENSE).
 Function `Include` depends on data generated from a subset of
 [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists)
 and is licensed under the terms described in
-[LICENSE](https://github.com/pnelson/top95/blob/master/LICENSE.top95).
+[LICENSE.top95](https://github.com/pnelson/top95/blob/master/LICENSE.top95).
